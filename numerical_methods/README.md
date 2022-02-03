@@ -24,7 +24,3 @@ The site to buy the book: [Amazon](https://www.amazon.com.br/Numerical-Methods-E
 3. Optimization
 4. Curve Fitting
 5. Numerical Differentiation and Integration
-
-## Others
-
-See also the repositories [method-numol](https://github.com/thiagoneye/method-numol), [method-fem](https://github.com/thiagoneye/method-fem) and [method-fvm](https://github.com/thiagoneye/method-fvm).
