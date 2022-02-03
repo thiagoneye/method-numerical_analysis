@@ -26,7 +26,3 @@ The results presented in the article were compared with those obtained in the st
 
 <img src="paper-cotta2015/images/surface.png" width="400px">
 <img src="paper-cotta2015/images/comparation.png" width="400px">
-
-## Others
-
-See also the repositories [method-numericalmethods](https://github.com/thiagoneye/method-numericalmethods), [method-fem](https://github.com/thiagoneye/method-fem) and [method-fvm](https://github.com/thiagoneye/method-fvm).
