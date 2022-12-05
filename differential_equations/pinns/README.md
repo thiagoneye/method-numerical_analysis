@@ -1,6 +1,6 @@
 # pinns
 
-Solution of differential equations using the physics-informed neural networks (PINNs).
+Solution of differential equations using the Physics-Informed Neural Networks (PINNs).
 
 ## References
 
